@@ -30,6 +30,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.loom.com/share/50bbfb3d2d9947beaaa34230063011e0?sid=4ea2125c-bcea-424e-8d1f-8feff1c1e4e3) .
 
 
+
+
+https://github.com/user-attachments/assets/d33f5e4d-a846-4420-a8b3-ff75a70725a1
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
