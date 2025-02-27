@@ -10,7 +10,7 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [+] App displays a keyboard on the screen
++ [] App displays a keyboard on the screen
 - [+] When tapping on the keyboard, a letter is shown or deleted (letter selected)
 - [+] User can play a basic version of Wordle, with different goal words each time
 
